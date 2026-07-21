@@ -1,1 +1,25 @@
-
+{
+  "fuelTypeDefault": null,
+  "favoriteStations": [
+    {
+      "name": "à INTERMARCHE AOSTE",
+      "url": "https://www.prix-carburants.gouv.fr/station/38490005"
+    },
+    {
+      "name": "à INTERMARCHE APPRIEU",
+      "url": "https://www.prix-carburants.gouv.fr/station/38140005"
+    },
+    {
+      "name": "à SUPER U APPRIEU",
+      "url": "https://www.prix-carburants.gouv.fr/station/38690006"
+    },
+    {
+      "name": "à INTERMARCHE TAIN L'HERMITAGE",
+      "url": "https://www.prix-carburants.gouv.fr/station/26600007"
+    },
+    {
+      "name": "à SUPER U SAINT-DONAT",
+      "url": "https://www.prix-carburants.gouv.fr/station/26260001"
+    }
+  ]
+}
